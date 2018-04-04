@@ -180,7 +180,7 @@ Use the following [triple slash directive](https://www.typescriptlang.org/docs/h
 ```
 
 ### update
-1.0.1 add echarts and highcharts module 
+- 1.0.1 add echarts and highcharts module 
 
 ### Commands to build and test
 
